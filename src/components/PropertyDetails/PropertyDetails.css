@@ -1,0 +1,10 @@
+#property-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+}
+
+#property-details .panel {
+    margin-bottom: 20px;
+}
